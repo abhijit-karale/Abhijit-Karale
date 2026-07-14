@@ -12,7 +12,7 @@ profile:
     and hardware design experience. Built a 5-stage pipelined RISC-V processor in
     Verilog/UVM achieving 95%+ functional coverage, plus formal verification work
     with SVA and JasperGold.
-  philosophy: '"From gate-level RTL to real-time embedded systems."'
+  philosophy: '"From gate-level ASIC RTL to silicon reality."'
 
 social:
   email: "abhijitkarale8@gmail.com"
