@@ -49,10 +49,13 @@ Certified by Maven Silicon, ChipXpert, IIT (BHU) Varanasi, and The Silicon Sandb
 <br/>
 
 <div align="center">
-  <a href="mailto:abhijitkarale22@gmail.com">
+  <a href="mailto:abhijitkarale8@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/abhijit-vlsi/">
+  <a href="https://www.linkedin.com/in/abhijitkarale/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/abhijit-karale">
+    <img src="https://img.shields.io/badge/-GitHub-080c14?style=for-the-badge&logo=github&logoColor=ffb020" alt="GitHub"/>
   </a>
 </div>
