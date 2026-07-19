@@ -8,7 +8,7 @@ on:
       - 'config.yml'
       - 'generator/**'
       - '.github/workflows/generate-profile.yml'
-  workflow_dispatch:  # Allows manual trigger from Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -21,12 +21,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Full history needed for commit counts
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: |
@@ -37,12 +37,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python -m generator.main
-        # ❌ NOT: python -m generator.main --demo
 
       - name: Commit and push updated SVGs
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add assets/generated/
-          git diff --staged --quiet || git commit -m "chore: update profile SVGs [skip ci]"
-          git push
+          git
