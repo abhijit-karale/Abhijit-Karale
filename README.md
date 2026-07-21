@@ -1,4 +1,4 @@
-<div align="center"">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Abhijit+Karale+👨‍💻;RTL+Design+%26+Verification+Engineer+👨‍🎓" />
 </div>
 
@@ -6,10 +6,9 @@
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
 </div>
 
-<!-- Recent Projects -->
-
 ## 📌 Recent Projects <a rel="noopener" href="⚠️YOUR_RESUME_DRIVE_LINK_HERE"><img align="right" src="https://img.shields.io/badge/View-Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Abhijit Karale Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=abhijit-karale&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
+<!-- ⚠️ These pinned repos update automatically when you change repo names, but you must update the URLs below if you create NEW repos -->
 <div align="center">
 <table>
     <tr>
@@ -31,9 +30,7 @@
 </table>
 </div>
 
-<!-- ⚠️ Update the 4 repo names above (rv32i-pipelined-processor, amba-apb-timer, axi4-lite-slave, sync-fifo) to match your exact GitHub repo slugs -->
-
-<!-- Skills & Leetcode -->
+<!-- ⚠️ Update the 4 repo names above to match your exact GitHub repo slugs -->
 
 <table>
     <tr>
@@ -63,7 +60,7 @@
         <td width="50%" valign="top">
             <h2 align="center"> 🏆 LeetCode Achievements </h2>
             <p align="center">
-                    <img src="https://leetcard.jacoblin.cool/⚠️YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
+                    <img src="https://leetcard.jacoblin.cool/abhijitkarale8?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
             </p>
             <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
             <div align="center" valign="bottom">
@@ -72,8 +69,6 @@
         </td>
     </tr>
 </table>
-
-<!-- Github Stats -->
 
 ## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 15px>  GitHub Stats
 
@@ -94,9 +89,10 @@
 ## 🌐 Connect with Me
 
 <div>
-<a href="mailto:abhijitkarale22@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
-<a href="https://linkedin.com/in/abhijit-vlsi/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
+<a href="mailto:abhijitkarale8@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
+<a href="https://www.linkedin.com/in/abhijit-karale-rtl-dv/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
 <a href="https://github.com/abhijit-karale"><img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" /></a> <img width="15" />
+<a href="https://leetcode.com/u/abhijitkarale8/"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" /></a> <img width="15" />
 </div>
 
 <div align="center">
