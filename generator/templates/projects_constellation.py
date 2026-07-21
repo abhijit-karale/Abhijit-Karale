@@ -235,19 +235,27 @@ def _build_project_card(i, proj, arm, color, card_width, card_x, theme):
         f'    <circle cx="{card_cx}" cy="85" r="8" fill="{color}" '
         f'opacity="0.15" filter="url(#proj-glow-{i})"/>'
     )
-    # Pulsing core
-    card_parts.append(
-        f'    <circle cx="{card_cx}" cy="85" r="5" fill="{color}" opacity="0.7">'
-        f'<animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" '
-        f'begin="{delay}" repeatCount="indefinite"/>'
-        f'<animate attributeName="r" values="4.5;5.5;4.5" dur="3s" '
-        f'begin="{delay}" repeatCount="indefinite"/>'
-        f'</circle>'
-    )
-    # White center dot
-    card_parts.append(
-        f'    <circle cx="{card_cx}" cy="85" r="2" fill="#ffffff" opacity="0.9"/>'
-    )
+    
+    icon = proj.get("icon")
+    if icon:
+        card_parts.append(
+            f'    <text x="{card_cx}" y="91" font-size="16" text-anchor="middle" '
+            f'fill="{color}">{icon}</text>'
+        )
+    else:
+        # Pulsing core
+        card_parts.append(
+            f'    <circle cx="{card_cx}" cy="85" r="5" fill="{color}" opacity="0.7">'
+            f'<animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" '
+            f'begin="{delay}" repeatCount="indefinite"/>'
+            f'<animate attributeName="r" values="4.5;5.5;4.5" dur="3s" '
+            f'begin="{delay}" repeatCount="indefinite"/>'
+            f'</circle>'
+        )
+        # White center dot
+        card_parts.append(
+            f'    <circle cx="{card_cx}" cy="85" r="2" fill="#ffffff" opacity="0.9"/>'
+        )
 
     # Project name (centered)
     card_parts.append(

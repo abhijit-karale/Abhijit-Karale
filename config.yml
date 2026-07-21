@@ -48,30 +48,36 @@ galaxy_arms:
 projects:
   - repo: "abhijit-karale/riscv-uvm-verification"
     arm: 1
+    icon: "🔬"
     description: "5-stage pipelined RISC-V processor in Verilog with a full UVM environment; 95%+ functional coverage on Cadence Xcelium."
   - repo: "abhijit-karale/risc-processor-asic-flow"
     arm: 0
+    icon: "⚙️"
     description: "8-bit, 32-instruction RISC processor taken from RTL to gate level: floorplan, P&R, DFT, STA; validated on FPGA at 100 MHz."
   - repo: "abhijit-karale/amba-apb-slave"
     arm: 2
+    icon: "🔌"
     description: "APB-compliant slave peripheral with address decoding and register mapping, modeled as an IDLE/SETUP/ACCESS FSM."
   - repo: "abhijit-karale/uart-controller-rtl"
     arm: 0
+    icon: "📡"
     description: "Configurable UART TX/RX with variable baud rates and parity, verified with SystemVerilog protocol-timing assertions."
   - repo: "abhijit-karale/sync-async-fifo"
     arm: 1
+    icon: "⏱️"
     description: "Parameterizable sync/async FIFOs with Gray-code pointer synchronization for safe clock-domain crossing."
   - repo: "abhijit-karale/formal-memory-controller"
     arm: 1
+    icon: "🧠"
     description: "Memory controller with SVA properties proved exhaustively in JasperGold: address decode, no-read-before-write, reset."
 
 theme:
-  void: "#080c14"
-  nebula: "#0f1623"
-  star_dust: "#1a2332"
-  synapse_cyan: "#00d4ff"
-  dendrite_violet: "#a78bfa"
-  axon_amber: "#ffb020"
+  void: "#050510"
+  nebula: "#0a0a1a"
+  star_dust: "#1c1c38"
+  synapse_cyan: "#00ffcc"
+  dendrite_violet: "#ff00ff"
+  axon_amber: "#ffea00"
   text_bright: "#f1f5f9"
   text_dim: "#94a3b8"
   text_faint: "#64748b"
