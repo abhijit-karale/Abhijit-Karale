@@ -111,10 +111,9 @@
 
 <br/>
 
+<h3 align="center"> 🌌 3D GitHub Contributions </h3>
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Abhijit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhijit-karale&theme=react-dark&hide_border=true" width="100%" />
-  </a>
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contributions" width="100%" />
 </div>
 
 <br/>
