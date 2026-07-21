@@ -113,7 +113,7 @@
 
 <h3 align="center"> 🌌 3D GitHub Contributions </h3>
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhijit-karale/abhijit-karale/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contributions" width="100%" />
 </div>
 
 <br/>
