@@ -59,7 +59,9 @@
 ## 📌 Featured Silicon IP & Projects 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhijit-karale/abhijit-karale/main/assets/generated/projects-constellation.svg" alt="3D Projects Constellation" width="100%" />
+  <a href="https://github.com/abhijit-karale?tab=repositories">
+    <img src="https://raw.githubusercontent.com/abhijit-karale/abhijit-karale/main/assets/generated/projects-constellation.svg" alt="3D Projects Constellation" width="100%" />
+  </a>
 </div>
 
 ## 📈 GitHub Telemetry & Stats
