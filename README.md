@@ -14,6 +14,7 @@
     <a href="mailto:abhijitkarale8@gmail.com"><img src="https://img.shields.io/badge/Email-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
     <a href="https://www.linkedin.com/in/abhijit-karale-rtl-dv/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a>
     <a href="https://leetcode.com/u/abhijitkarale8/"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" /></a>
+    <a href="https://hdlbits.01xz.net/wiki/Special:VlgStats/Me"><img src="https://img.shields.io/badge/HDLBits-d5d5d5?style=for-the-badge&logo=hackerrank&logoColor=0A0209" /></a>
     <a href="https://drive.google.com/file/d/1X5ZCjU_Zwzafp7m4uBq5_5gZj1Chuy6W/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-d5d5d5?style=for-the-badge&logo=google-drive&logoColor=0A0209" /></a>
     <a href="https://github.com/abhijit-karale"><img src="https://komarev.com/ghpvc/?username=abhijit-karale&label=Profile%20Views&color=0A0209&style=for-the-badge" alt="Profile Views" /></a>
 </div>
@@ -102,7 +103,7 @@
             <br/>
             <h3 align="center"> 🎵 Currently Listening </h3>
             <div align="center" valign="bottom">
-                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=⚠️YOUR_SPOTIFY_UID&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%">
+                <a href="https://open.spotify.com/user/31rltdqnyssvdmgbegb7sezjsjyu"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rltdqnyssvdmgbegb7sezjsjyu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%"></a>
             </div>
         </td>
     </tr>
