@@ -1,14 +1,11 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Abhijit+Karale+👨‍💻;RTL+Design+%26+Verification+Engineer+👨‍🎓" />
 </div>
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
 </div>
-
-## 📌 Recent Projects <a rel="noopener" href="⚠️YOUR_RESUME_DRIVE_LINK_HERE"><img align="right" src="https://img.shields.io/badge/View-Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Abhijit Karale Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=abhijit-karale&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
-
-<!-- ⚠️ These pinned repos update automatically when you change repo names, but you must update the URLs below if you create NEW repos -->
+📌 Recent Projects <a rel="noopener" href="⚠️YOUR_RESUME_DRIVE_LINK_HERE"> <img align="right" src="https://komarev.com/ghpvc/?username=abhijit-karale&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
+<!-- Pinned Repositories - Auto-updates stars/forks/language -->
 <div align="center">
 <table>
     <tr>
@@ -29,9 +26,7 @@
     </tr>
 </table>
 </div>
-
-<!-- ⚠️ Update the 4 repo names above to match your exact GitHub repo slugs -->
-
+<!-- ⚠️ Add new repo rows here when you create new repositories -->
 <table>
     <tr>
         <td width="50%" valign="top">
@@ -69,32 +64,35 @@
         </td>
     </tr>
 </table>
-
-## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 15px>  GitHub Stats
-
+<img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 15px> GitHub Stats
 <div align="center">
-
-| <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=abhijit-karale&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.koyeb.app?user=abhijit-karale&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> |
-| --- | --- |
-
+Table
+<img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=abhijit-karale&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" />	<img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.koyeb.app?user=abhijit-karale&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" />
 </div>
-
 <div align="center">
-
-| [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=abhijit-karale&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-| --- |
-
+Table
+https://github.com/ashutosh00710/github-readme-activity-graph
 </div>
-
-## 🌐 Connect with Me
-
+📊 Contribution Activity
+42 contributions in the last year · First repository created July 15, 2026
+<div align="center">
+Table
+Period	Activity
+July 2026	Created first repository abhijit-karale
+2026	🌱 Starting the journey in RTL/DV
+2025	—
+2024	—
+</div>
+🌐 Connect with Me
 <div>
 <a href="mailto:abhijitkarale8@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
 <a href="https://www.linkedin.com/in/abhijit-karale-rtl-dv/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
 <a href="https://github.com/abhijit-karale"><img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" /></a> <img width="15" />
 <a href="https://leetcode.com/u/abhijitkarale8/"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" /></a> <img width="15" />
 </div>
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
+</div>
+<div align="center">
+    <sub>🚀 Building silicon-grade verification environments — one commit at a time.</sub>
 </div>
