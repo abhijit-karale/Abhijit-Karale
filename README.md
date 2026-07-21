@@ -102,9 +102,11 @@
             </p>
             <br/>
             <h3 align="center"> 🎵 Currently Listening </h3>
-            <div align="center" valign="bottom">
-                <a href="https://open.spotify.com/user/31rltdqnyssvdmgbegb7sezjsjyu"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rltdqnyssvdmgbegb7sezjsjyu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%"></a>
-            </div>
+            <p align="center">
+              <a href="https://github.com/kittinan/spotify-github-profile">
+                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rltdqnyssvdmgbegb7sezjsjyu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+              </a>
+            </p>
         </td>
     </tr>
 </table>
