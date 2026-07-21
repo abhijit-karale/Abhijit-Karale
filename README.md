@@ -59,24 +59,7 @@
 ## 📌 Featured Silicon IP & Projects 
 
 <div align="center">
-<table>
-    <tr>
-        <td width="50%" valign="top">
-            <a href="https://github.com/abhijit-karale/_riscv_pipeline"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=abhijit-karale&repo=_riscv_pipeline&theme=vision-friendly-dark" /></a>
-        </td>
-        <td width="50%" valign="center">
-            <a href="https://github.com/abhijit-karale/_amba_apb_slave"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=abhijit-karale&repo=_amba_apb_slave&theme=vision-friendly-dark" /></a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" valign="top">
-            <a href="https://github.com/abhijit-karale/_axi4_lite_slave"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=abhijit-karale&repo=_axi4_lite_slave&theme=vision-friendly-dark" /></a>
-        </td>
-        <td width="50%" valign="center">
-            <a href="https://github.com/abhijit-karale/sync-fifo"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=abhijit-karale&repo=sync-fifo&theme=vision-friendly-dark" /></a>
-        </td>
-    </tr>
-</table>
+  <img src="https://raw.githubusercontent.com/abhijit-karale/abhijit-karale/main/assets/generated/projects-constellation.svg" alt="3D Projects Constellation" width="100%" />
 </div>
 
 ## 📈 GitHub Telemetry & Stats

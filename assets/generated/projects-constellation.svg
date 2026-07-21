@@ -149,7 +149,7 @@
     <circle cx="152.5" cy="85" r="8" fill="#a78bfa" opacity="0.15" filter="url(#proj-glow-0)"/>
     <circle cx="152.5" cy="85" r="5" fill="#a78bfa" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
     <circle cx="152.5" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
-    <text x="152.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">riscv-uvm-verification</text>
+    <text x="152.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">_riscv_pipeline</text>
     <text x="152.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">5-stage pipelined RISC-V</text>
     <text x="152.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">processor in Verilog with a full</text>
     <rect x="102.5" y="163" width="100" height="18" rx="9" ry="9" fill="#a78bfa" opacity="0.12"/>
@@ -166,9 +166,9 @@
     <circle cx="425.0" cy="85" r="8" fill="#00d4ff" opacity="0.15" filter="url(#proj-glow-1)"/>
     <circle cx="425.0" cy="85" r="5" fill="#00d4ff" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.3s" repeatCount="indefinite"/></circle>
     <circle cx="425.0" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
-    <text x="425.0" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">risc-processor-asic-flow</text>
-    <text x="425.0" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">8-bit, 32-instruction RISC</text>
-    <text x="425.0" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">processor taken from RTL to gate</text>
+    <text x="425.0" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">_axi4_lite_slave</text>
+    <text x="425.0" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">AXI4-Lite Slave peripheral with</text>
+    <text x="425.0" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">configurable memory map and</text>
     <rect x="382.0" y="163" width="86" height="18" rx="9" ry="9" fill="#00d4ff" opacity="0.12"/>
     <text x="425.0" y="175" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">RTL Design</text>
   </g>
@@ -183,7 +183,7 @@
     <circle cx="697.5" cy="85" r="8" fill="#ffb020" opacity="0.15" filter="url(#proj-glow-2)"/>
     <circle cx="697.5" cy="85" r="5" fill="#ffb020" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.6s" repeatCount="indefinite"/></circle>
     <circle cx="697.5" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
-    <text x="697.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">amba-apb-slave</text>
+    <text x="697.5" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">_amba_apb_slave</text>
     <text x="697.5" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">APB-compliant slave peripheral</text>
     <text x="697.5" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">with address decoding and</text>
     <rect x="640.5" y="163" width="114" height="18" rx="9" ry="9" fill="#ffb020" opacity="0.12"/>
