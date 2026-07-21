@@ -113,6 +113,16 @@
 
 <br/>
 
+## 📡 Live Activity Feed
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width="35" height="35" />
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
 <div align="center">
     <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
     <br/><br/>
