@@ -15,6 +15,7 @@
     <a href="https://www.linkedin.com/in/abhijit-karale-rtl-dv/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a>
     <a href="https://leetcode.com/u/abhijitkarale8/"><img src="https://img.shields.io/badge/LeetCode-d5d5d5?style=for-the-badge&logo=leetcode&logoColor=0A0209" /></a>
     <a href="https://drive.google.com/file/d/1X5ZCjU_Zwzafp7m4uBq5_5gZj1Chuy6W/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-d5d5d5?style=for-the-badge&logo=google-drive&logoColor=0A0209" /></a>
+    <a href="https://github.com/abhijit-karale"><img src="https://komarev.com/ghpvc/?username=abhijit-karale&label=Profile%20Views&color=0A0209&style=for-the-badge" alt="Profile Views" /></a>
 </div>
 
 <br/>
@@ -76,6 +77,12 @@
 <br/>
 
 ## 📈 GitHub Telemetry & Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhijit-karale&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://metrics.lecoq.io/abhijit-karale" alt="GitHub Metrics" width="100%" />
