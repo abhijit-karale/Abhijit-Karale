@@ -1,123 +1,114 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&repeat=false&width=520&lines=Abhijit+Karale" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&color=8892B0&repeat=true&width=750&height=45&vCenter=true&size=22&lines=RTL+Design+%26+Verification+Engineer;SystemVerilog+%7C+UVM+%7C+AMBA+%7C+Digital+Design;Embedded+Firmware+%E2%86%92+VLSI+%2F+Semiconductor+Transition;Building+Silicon-Grade+Verification+Environments" alt="Typing SVG" />
-</p>
+<div align="center"">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Abhijit+Karale+👨‍💻;Embedded+Firmware+Developer+👨‍🎓" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-0A192F?style=for-the-badge" width="1"/>
-</p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
+</div>
 
-<details open>
-<summary><strong>👋 About Me</strong></summary>
-<br>
+<!-- Recent Projects -->
 
-I'm **Abhijit Karale**, an Embedded Firmware Engineer transitioning into **RTL Design & Verification**. I bring hands-on embedded systems experience (STM32, ESP32, ARM Cortex-M) into digital design and verification work — building synthesizable RTL and self-checking testbenches for standard peripherals, bus protocols, and pipelined processors.
+## 📌 Recent Projects <a rel="noopener" href="https://drive.google.com/file/d/1lZSqqnH42Y3_wTx_Vl-aWXxJfTzC3FQj/view?usp=drive_link"><img align="right" src="https://img.shields.io/badge/View-Resume-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Amit Singhal Resume"></a> <img align="right" src="https://komarev.com/ghpvc/?username=singhal-amit&color=blue&style=for-the-badge&label=Visitors" alt="Profile Views">
 
-Currently deepening my RTL/DV foundation through **The Silicon Sandbox's Advanced RTL Design & Verification program**, with a long-term goal of becoming a **Verification Architect / VLSI Architectural Engineer**.
+<div align="center">
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <a href="https://github.com/singhal-amit/singhal-amit"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=singhal-amit&theme=vision-friendly-dark" /></a>
+        </td>
+        <td width="50%" valign="center">
+            <a href="https://github.com/singhal-amit/Sky-Now"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=sky-now&theme=vision-friendly-dark" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <a href="https://github.com/singhal-amit/Note-Keeper"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=Note-Keeper&theme=vision-friendly-dark" /></a>
+        </td>
+        <td width="50%" valign="center">
+            <a href="https://github.com/singhal-amit/LeetCode-Badges"><img align="center" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=singhal-amit&repo=LeetCode-Badges&theme=vision-friendly-dark" /></a>
+        </td>
+    </tr>
+</table>
+</div>
 
-- 🔭 Currently building: UVM-based verification environments and AMBA protocol peripherals
-- 🌱 Learning: Formal Verification, Low Power Methodology, AMS Verification
-- 💡 Interests: RISC-V microarchitecture, CDC-safe design, AI-accelerator hardware
-- 📍 Based in Ahmedabad, India
+<!-- Skills & Leetcode -->
 
-</details>
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <h2 align="center"> 💻 My Skills </h2>
+                <h3>- Programming Languages</h3>
+                    <a href="https://www.python.org/" target="_blank"><img title="Python" src="https://skillicons.dev/icons?i=python" height="40" alt="pythonlogo" width="40" /></a>
+                    <a href="https://cplusplus.com/" target="_blank"><img title="C++" src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpluspluslogo" width="40" /></a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img title="JavaScript" src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascriptlogo" width="40" /></a>
+                    <a href="https://html.com/" target="_blank"><img title="HTML" src="https://skillicons.dev/icons?i=html" height="40" alt="html5logo" width="40" /></a>
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img title="CSS" src="https://skillicons.dev/icons?i=css" height="40" alt="css3logo" width="40" /></a>
+                    <a href="https://git-scm.com/" target="_blank"><img title="Git" src="https://skillicons.dev/icons?i=git" height="40" alt="gitlogo" width="40" /></a>
+                    <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img title="Markdown" src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdownlogo" width="40" /></a>
+                    <a href="https://www.php.net/" target="_blank"><img title="PHP" src="https://skillicons.dev/icons?i=php" height="40" alt="phplogo" width="40" /></a>
+                    <a href="https://www.oracle.com/java/" target="_blank"><img title="Java" src="https://skillicons.dev/icons?i=java" height="40" alt="javalogo" width="40" /></a>
+                    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img title="C" src="https://skillicons.dev/icons?i=c" height="40" alt="clogo" width="40" /></a>
+                    <a href="https://www.mysql.com/" target="_blank"><img title="MySQL" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysqllogo" width="40" /></a>
+                <h3>- Frameworks & Libraries</h3>
+                    <a href="https://nodejs.org/" target="_blank"><img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejslogo" width="40" /></a>
+                    <a href="https://expressjs.com/" target="_blank"><img title="Express.js" src="https://skillicons.dev/icons?i=express" height="40" alt="expresslogo" width="40" /></a>
+                    <a href="https://getbootstrap.com/" target="_blank"><img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstraplogo" width="40" /></a>
+                    <a href="https://jquery.com/" target="_blank"><img title="jQuery" src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquerylogo" width="40" /></a>
+                    <a href="https://reactjs.org/" target="_blank"><img title="React" src="https://skillicons.dev/icons?i=react" height="40" alt="reactlogo" width="40" /></a>
+                <h3>- Database & Cloud Hosting</h3>
+                    <a href="https://www.mongodb.com/" target="_blank"><img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodblogo" width="40" /></a>
+                    <a href="https://www.postgresql.org/" target="_blank"><img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresqllogo" width="40" /></a>
+                <h3>- Software & Tools</h3>
+                    <a href="https://code.visualstudio.com/" target="_blank"><img title="VS Code" src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscodelogo" width="40" /></a>
+                    <a href="https://www.postman.com/" target="_blank"><img title="Postman" src="https://skillicons.dev/icons?i=postman" height="40" alt="postmanlogo" width="40" /></a>
+                    <a href="https://github.com/" target="_blank"><img title="GitHub" src="https://skillicons.dev/icons?i=github" height="40" alt="githublogo" width="40" /></a>
+                    <a href="https://www.docker.com/" target="_blank"><img title="Docker" src="https://skillicons.dev/icons?i=docker" height="40" alt="dockerlogo" width="40" /></a>
+        </td>
+        <td width="50%" valign="top">
+            <h2 align="center"> 🏆 LeetCode Achievements </h2>
+            <p align="center">
+                    <img src="https://leetcard.jacoblin.cool/vanshthakur005?theme=dark&font=Nunito" alt="LeetCode Stats" width="100%" />
+                <div align="center">
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2026/2026-annual.png" width="70" title="submitted code on 300+ distinct days in 2026"><img width="10"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2025/2025-annual.gif" width="70" title="submitted code on 300+ distinct days in 2025"><img width="10"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2024/2024-annual.gif" width="70" title="submitted code on 300+ distinct days in 2024"><img width="10"/>
+                    <img src="https://github.com/singhal-amit/LeetCode-Badges/blob/main/badges/annual medals/2023/2023-annual.gif" width="70" title="submitted code on 300+ distinct days in 2023">
+                </div>
+            </p>
+            <h2 align="center"> 🎵 Currently Listening 🎵 </h2>
+            <div align="center" valign="bottom">
+                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gru45265tvrvvvibgnoifpkpbu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="SpotifyCard" width="80%">
+            </div>
+        </td>
+    </tr>
+</table>
 
-<details open>
-<summary><strong>📬 Connect with Me</strong></summary>
-<br>
+<!-- Github Stats -->
 
-<p align="center">
-  <a href="mailto:abhijitkarale22@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A192F?style=for-the-badge&logo=gmail&logoColor=64FFDA" alt="Email"/></a>
-  <a href="https://linkedin.com/in/abhijit-vlsi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA" alt="LinkedIn"/></a>
-  <a href="https://github.com/abhijit-karale" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=64FFDA" alt="GitHub"/></a>
-</p>
+## <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px><img width = 15px>  GitHub Stats
 
-</details>
+<div align="center">
 
-<details open>
-<summary><strong>🎓 Certifications</strong></summary>
-<br>
+| <img align="center" alt="GitHub Stats" src="https://gh-readme-profile.vercel.app/api?username=singhal-amit&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" /> | <img align="center" alt="GitHub Streak" src="https://nirzak-streak-stats.koyeb.app?user=singhal-amit&theme=vision-friendly-dark&hide_border=true&border_radius=15.2&mode=weekly&card_width=500" /> |
+| --- | --- |
 
-| Certification | Issuer | Status |
-|---|---|---|
-| Advanced RTL Design & Verification | The Silicon Sandbox | <img src="https://img.shields.io/badge/In%20Progress-0A192F?style=for-the-badge&logoColor=64FFDA"/> |
-| VLSI SoC Design | Maven Silicon | <img src="https://img.shields.io/badge/Completed-0A192F?style=for-the-badge&logoColor=64FFDA"/> |
-| RTL Design & Verification, RTL to GDS | ChipXpert | <img src="https://img.shields.io/badge/Completed-0A192F?style=for-the-badge&logoColor=64FFDA"/> |
-| Semiconductor Technology | IIT (BHU) Varanasi | <img src="https://img.shields.io/badge/Completed-0A192F?style=for-the-badge&logoColor=64FFDA"/> |
+</div>
 
-</details>
+<div align="center">
 
-<details open>
-<summary><strong>🛠️ Tech Stack</strong></summary>
-<br>
+| [![Activity graph](https://github-readme-activity-graph.vercel.app/graph/?username=singhal-amit&bg_color=000&color=F8D866&line=F85D7F&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=350&days=20&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+| --- |
 
-**RTL / Verification**
-<p>
-  <img src="https://img.shields.io/badge/SystemVerilog-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/Verilog-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/UVM-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/Cadence%20Xcelium-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/AMBA%20(APB%2FAXI4--Lite)-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-</p>
+</div>
 
-**Digital Design Concepts**
-<p>
-  <img src="https://img.shields.io/badge/FSM-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/FIFO-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/CDC-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/Pipelining-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/RISC--V-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-</p>
+## 🌐 Connect with Me
 
-**Embedded Systems**
-<p>
-  <img src="https://img.shields.io/badge/STM32-0A192F?style=for-the-badge&logo=stmicroelectronics&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/ESP32-0A192F?style=for-the-badge&logo=espressif&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/ARM%20Cortex--M-0A192F?style=for-the-badge&logo=arm&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/C-0A192F?style=for-the-badge&logo=c&logoColor=64FFDA"/>
-</p>
+<div>
+<a href="mailto:rksinghal.amit@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a> <img width="15" />
+<a href="https://www.linkedin.com/in/singhal-amit"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin-white&logoColor=d5d5d5" /></a> <img width="15" />
+<a href="https://instagram.com/_singhal_amit"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" /></a> <img width="15" />
+</div>
 
-**Languages & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-0A192F?style=for-the-badge&logo=c%2B%2B&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=64FFDA"/>
-  <img src="https://img.shields.io/badge/Altium-0A192F?style=for-the-badge&logoColor=64FFDA"/>
-</p>
-
-</details>
-
-<details open>
-<summary><strong>🚀 Featured RTL/DV Projects</strong></summary>
-<br>
-
-| Project | Description | Highlights |
-|---|---|---|
-| **5-Stage Pipelined RISC-V Processor (RV32I)** | Pipelined CPU core with hazard handling | UVM testbench, 95%+ functional coverage (Cadence Xcelium) |
-| **AMBA-APB Programmable Timer** | APB3-compliant peripheral with interrupt support | PSLVERR handling, 14-assertion self-checking testbench |
-| **AXI4-Lite Slave Controller** | Memory-mapped AXI4-Lite slave | Full read/write channel handshaking, waveform-verified |
-| **UART Controller** | Configurable serial transmit/receive core | RTL + self-checking testbench, VCD waveforms |
-| **Synchronous FIFO** | Parameterized sync FIFO with full/empty flags | RTL, testbench, and verification report |
-| **Sparsity-Aware Matrix Multiply Engine** | LLM-inference accelerator building block | 5-submodule SystemVerilog design, self-checking TB |
-
-> Each project ships with RTL source, testbenches, waveform dumps, and a documented README — browse the pinned repositories below for full details.
-
-</details>
-
-<details open>
-<summary><strong>📊 GitHub Activity</strong></summary>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhijit-karale&bg_color=0A192F&color=64FFDA&line=64FFDA&point=FFFFFF&area=true&hide_border=true&custom_title=Abhijit%27s%20Contribution%20Graph" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijit-karale&label=Profile%20Views&color=0A192F&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-</details>
-
-<p align="center">
-  <sub>Building toward a career as a Verification Architect — one testbench at a time.</sub>
-</p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif" width="100%">
+</div>
