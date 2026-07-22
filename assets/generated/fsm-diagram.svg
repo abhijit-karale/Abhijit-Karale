@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="250" viewBox="0 0 850 250">
+  <defs>
+    <style>
+      .bg { fill: #0A192F; }
+      .grid { stroke: #1c1c38; stroke-width: 1; stroke-dasharray: 2 4; opacity: 0.7; }
+      
+      /* State Boxes */
+      .state { fill: #112240; stroke: #64748b; stroke-width: 2; rx: 8; transition: all 0.3s; }
+      .text-title { fill: #f1f5f9; font-family: monospace; font-size: 14px; font-weight: bold; text-anchor: middle; dominant-baseline: middle; }
+      
+      /* Arrows */
+      .arrow { stroke: #64748b; stroke-width: 2; fill: none; marker-end: url(#head); stroke-dasharray: 4 4; }
+      
+      /* Footer */
+      .footer-bg { fill: rgba(10, 25, 47, 0.9); stroke: #00ffcc; stroke-width: 1; rx: 4; }
+      .footer-text { fill: #00ffcc; font-family: monospace; font-size: 12px; }
+      
+      /* Glow Animations for States */
+      @keyframes glow {
+        0%, 100% { fill: #112240; stroke: #64748b; filter: none; }
+        50% { fill: #1e3a5f; stroke: #00d4ff; filter: drop-shadow(0 0 8px rgba(0,212,255,0.8)); }
+      }
+      
+      .s1 { animation: glow 6s infinite 0s; }
+      .s2 { animation: glow 6s infinite 1s; }
+      .s3 { animation: glow 6s infinite 2s; }
+      .s4 { animation: glow 6s infinite 3s; }
+      .s5 { animation: glow 6s infinite 4s; }
+      .s6 { animation: glow 6s infinite 5s; }
+      
+      /* Pulsing Dot Animation */
+      @keyframes travel {
+        0%   { cx: 80;  cy: 80; opacity: 1; }  /* IDLE */
+        10%  { cx: 220; cy: 80; opacity: 1; }  /* -> LOAD */
+        16%  { cx: 220; cy: 80; opacity: 1; }  /* LOAD */
+        26%  { cx: 360; cy: 80; opacity: 1; }  /* -> DECODE */
+        33%  { cx: 360; cy: 80; opacity: 1; }  /* DECODE */
+        43%  { cx: 500; cy: 80; opacity: 1; }  /* -> COMPUTE */
+        50%  { cx: 500; cy: 80; opacity: 1; }  /* COMPUTE */
+        60%  { cx: 640; cy: 80; opacity: 1; }  /* -> DRAIN */
+        66%  { cx: 640; cy: 80; opacity: 1; }  /* DRAIN */
+        76%  { cx: 780; cy: 80; opacity: 1; }  /* -> DONE */
+        83%  { cx: 780; cy: 80; opacity: 1; }  /* DONE */
+        93%  { cx: 80;  cy: 80; opacity: 1; }  /* -> IDLE */
+        100% { cx: 80;  cy: 80; opacity: 1; }  /* IDLE */
+      }
+      
+      .dot { fill: #ff00ff; filter: drop-shadow(0 0 6px #ff00ff); animation: travel 6s linear infinite; }
+      
+      /* Highlight Bug Path */
+      .bug-path { stroke: #ff9900; stroke-width: 2; fill: none; marker-end: url(#head-bug); stroke-dasharray: 4 4; }
+    </style>
+    
+    <marker id="head" orient="auto" markerWidth="6" markerHeight="8" refX="5" refY="4">
+      <path d="M0,0 V8 L6,4 Z" fill="#64748b" />
+    </marker>
+    <marker id="head-bug" orient="auto" markerWidth="6" markerHeight="8" refX="5" refY="4">
+      <path d="M0,0 V8 L6,4 Z" fill="#ff9900" />
+    </marker>
+  </defs>
+
+  <rect width="850" height="250" class="bg" />
+  <path class="grid" d="M 0 50 L 850 50 M 0 100 L 850 100 M 0 150 L 850 150 M 0 200 L 850 200 M 100 0 L 100 250 M 200 0 L 200 250 M 300 0 L 300 250 M 400 0 L 400 250 M 500 0 L 500 250 M 600 0 L 600 250 M 700 0 L 700 250 M 800 0 L 800 250" />
+
+  <!-- Arrows between states -->
+  <path class="arrow" d="M 130 80 L 170 80" />
+  <path class="arrow" d="M 270 80 L 310 80" />
+  <path class="bug-path" d="M 410 80 L 450 80" />
+  <path class="arrow" d="M 550 80 L 590 80" />
+  <path class="arrow" d="M 690 80 L 730 80" />
+  <path class="arrow" d="M 780 110 C 780 180, 80 180, 80 110" />
+
+  <!-- State 1: IDLE -->
+  <rect x="30" y="50" width="100" height="60" class="state s1" />
+  <text x="80" y="80" class="text-title">IDLE</text>
+
+  <!-- State 2: LOAD_WEIGHTS -->
+  <rect x="170" y="50" width="100" height="60" class="state s2" />
+  <text x="220" y="80" class="text-title">LOAD</text>
+
+  <!-- State 3: DECODE -->
+  <rect x="310" y="50" width="100" height="60" class="state s3" />
+  <text x="360" y="80" class="text-title">DECODE</text>
+
+  <!-- State 4: COMPUTE -->
+  <rect x="450" y="50" width="100" height="60" class="state s4" />
+  <text x="500" y="80" class="text-title">COMPUTE</text>
+
+  <!-- State 5: DRAIN -->
+  <rect x="590" y="50" width="100" height="60" class="state s5" />
+  <text x="640" y="80" class="text-title">DRAIN</text>
+  
+  <!-- State 6: DONE -->
+  <rect x="730" y="50" width="100" height="60" class="state s6" />
+  <text x="780" y="80" class="text-title">DONE</text>
+
+  <!-- Pulsing Dot -->
+  <circle cx="80" cy="80" r="5" class="dot" />
+
+  <!-- Footer Callout -->
+  <rect x="330" y="195" width="480" height="30" class="footer-bg" />
+  <text x="345" y="215" class="footer-text">Bugfix [MATMUL-08]: Resolved DECODE -> COMPUTE off-by-one pointer error</text>
+
+</svg>

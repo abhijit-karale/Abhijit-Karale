@@ -51,7 +51,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/abhijit-karale/abhijit-karale/raw/main/assets/fsm.svg" alt="FSM Diagram" />
+  <img src="https://github.com/abhijit-karale/abhijit-karale/raw/main/assets/generated/fsm-diagram.svg?v=1" alt="FSM Diagram" />
 </div>
 
 <br/>
