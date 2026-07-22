@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhijit-karale/abhijit-karale/main/assets/generated/galaxy-header.svg" alt="Galaxy Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhijit-karale/abhijit-karale/main/assets/waveform.svg" alt="Animated Waveform" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=64FFDA&background=0A192F00&center=true&vCenter=true&width=600&lines=RTL+Design+%26+Verification+Engineer;SystemVerilog+%7C+UVM+%7C+AMBA+AXI%2FAPB;Building+Silicon-Grade+Verification+Environments" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -9,7 +11,7 @@
   </i>
   <br/><br/>
   <div align="center">
-    <img src="https://img.shields.io/badge/Functional%20Coverage-95%25-64FFDA?style=for-the-badge&logo=checkmarx&logoColor=0A192F" />
+    <img src="https://raw.githubusercontent.com/abhijit-karale/abhijit-karale/main/assets/coverage.svg" alt="Coverage Bar" />
     <img src="https://img.shields.io/badge/SVA%20Assertions-14%2F14%20Passing-64FFDA?style=for-the-badge&logo=checkmarx&logoColor=0A192F" />
   </div>
   <br/>
@@ -50,6 +52,12 @@
 | [UART Controller](https://github.com/abhijit-karale/uart-controller) | Configurable baud, TX/RX FSM, full TB coverage | Verilog | ✅ Verified |
 | [Synchronous FIFO](https://github.com/abhijit-karale/sync-fifo) | Parameterized sync FIFO with full/empty flags | Verilog | ✅ Verified |
 | [Sparsity-Aware MatMul Engine](https://github.com/abhijit-karale/sparsity-matmul-engine) | LLM inference accelerator, 5 submodules, patentable design | SystemVerilog | 🔧 In Progress |
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhijit-karale/abhijit-karale/main/assets/fsm.svg" alt="FSM Diagram" />
+</div>
 
 <br/>
 
@@ -111,6 +119,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhijit-karale/abhijit-karale/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhijit-karale/abhijit-karale/output/github-contribution-grid-snake-dark.svg" alt="Snake Graph" width="100%" />
 </div>
 
 <br/>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150">
+  <defs>
+    <style>
+      .state { fill: #1c1c38; stroke: #64748b; stroke-width: 2; transition: all 0.3s; }
+      .text { fill: #94a3b8; font-family: monospace; font-size: 14px; text-anchor: middle; dominant-baseline: middle; font-weight: bold; }
+      .arrow { stroke: #64748b; stroke-width: 2; fill: none; marker-end: url(#head); }
+      
+      @keyframes activeState {
+        0%, 25% { fill: #1c1c38; stroke: #64748b; filter: none; }
+        35%, 65% { fill: #0a192f; stroke: #00d4ff; filter: drop-shadow(0 0 8px rgba(0,212,255,0.8)); }
+        75%, 100% { fill: #1c1c38; stroke: #64748b; filter: none; }
+      }
+      
+      .s1 { animation: activeState 6s infinite 0s; }
+      .s2 { animation: activeState 6s infinite 2s; }
+      .s3 { animation: activeState 6s infinite 4s; }
+    </style>
+    <marker id="head" orient="auto" markerWidth="6" markerHeight="8" refX="5" refY="4">
+      <path d="M0,0 V8 L6,4 Z" fill="#64748b" />
+    </marker>
+  </defs>
+
+  <!-- Transitions -->
+  <!-- IDLE to SETUP -->
+  <path class="arrow" d="M 70 75 L 120 75" />
+  <!-- SETUP to ACCESS -->
+  <path class="arrow" d="M 180 75 L 230 75" />
+  <!-- ACCESS to IDLE (loop back) -->
+  <path class="arrow" d="M 250 55 C 250 20, 50 20, 50 55" />
+
+  <!-- States -->
+  <!-- IDLE -->
+  <circle cx="50" cy="75" r="25" class="state s1" />
+  <text x="50" y="75" class="text">IDLE</text>
+
+  <!-- SETUP -->
+  <circle cx="150" cy="75" r="25" class="state s2" />
+  <text x="150" y="75" class="text">SETUP</text>
+
+  <!-- ACCESS -->
+  <circle cx="250" cy="75" r="25" class="state s3" />
+  <text x="250" y="75" class="text">ACCESS</text>
+</svg>
