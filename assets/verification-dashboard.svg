@@ -18,7 +18,7 @@
   <rect width="850" height="300" class="bg" />
   
   <!-- Header Bar -->
-  <rect x="0" y="0" width="850" height="40" class="header-bg" style="border-bottom-left-radius: 0; border-bottom-right-radius: 0;" />
+  <rect x="0" y="0" width="850" height="40" class="header-bg" />
   <circle cx="20" cy="20" r="5" fill="#ef4444" />
   <circle cx="40" cy="20" r="5" fill="#eab308" />
   <circle cx="60" cy="20" r="5" fill="#22c55e" />
